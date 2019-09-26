@@ -8000,7 +8000,7 @@ body {
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
-  color: #b3b3b3; }
+  color: #776f6f; }
   body.menu-show {
     overflow: hidden;
     position: fixed;
@@ -8928,7 +8928,7 @@ h1, h2, h3, h4, h5,
         font-size: 14px; }
       @media (max-width: 767.98px) {
         .ftco-schedule .nav-pills .nav-link {
-          color: rgba(255, 255, 255, 0.7); } }
+          color: black; } }
       .ftco-schedule .nav-pills .nav-link:hover {
         background: #0037e9;
         color: #fff; }
